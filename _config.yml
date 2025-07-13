@@ -12,9 +12,9 @@ title: "Adventures in AI"
 title_separator: "-"
 name: &name "Bui Huu Dai"
 description: &description "A diary of my learning journey in AI and Deep Learning, guided by fastai course."
-url: https://buidai123.github.io
+url: https://bhdai.github.io
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "buidai123/buidai123.github.io"
+repository: "bhdai/bhdai.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -43,7 +43,7 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "buidai123"
+  github: "bhdai"
   kaggle: "buidai"
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
