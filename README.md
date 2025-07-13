@@ -1,11 +1,7 @@
-# Personal Blog and AI/Deep Learning learning Journey
+# My Personal Blog
 
-This repository serves as the foundation for my personal blog, where i document my learning journey in Artificial Intelligence and Deep Learning. The primary purpose is to track my progress as I work through the course and dive deeper into the exciting fields.
+Source code for my personal blog where I write about learning AI and deep learning
 
-Through this blog, I aim to:
-- Share my insights, reflections, and key learnings from the course
-- Document projects, experiments, and applications of AI/DL concepts
-- Provide helpful resources and tips for fellow learners
-- Showcase my growing skills and knowledge in AI and Deep Learning
+Built with Jekyll, hosted on GitHub Pages.
 
-Stay tuned for regular updates as I embark on this educational adventure!
+**Live site:** [bhdai.github.io](https://bhdai.github.io)
