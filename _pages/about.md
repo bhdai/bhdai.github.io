@@ -14,7 +14,7 @@ This blog is where I document my learning journey and the projects I'm working o
 
 ## What I'm Into
 
-![Where am I](/images/where_am_i.png)
+![Where am I](../images/where-am-i.png)
 
 I'm really interested in the intersection of computer vision and deep learning. There's something cool about teaching computers to "see" and understand images. I also dabble in NLP when I have time.
 
