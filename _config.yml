@@ -11,7 +11,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # Basic Site Settings
 locale: "en-US"
-title: "Adventures in AI"
+title: "Bui Huu Dai"
 title_separator: "-"
 name: &name "Bui Huu Dai"
 description: &description "A diary of my learning journey in AI and Deep Learning, guided by fastai course."
@@ -26,8 +26,8 @@ author:
   # Biographic information
   avatar: "Github_bird.png"
   name: "Dai"
-  pronouns: # example: "she/her"
-  bio: "Computer Science student passionate about AI and Deep Learning"
+  pronouns: "he/him"
+  bio: "Trying to teach computers to see things"
   location: "Hanoi, Vietnam"
   employer: # ""
   uri: # URL
