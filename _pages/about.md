@@ -12,7 +12,7 @@ Hey! I'm Dai, a final-year Computer Science student at Hanoi University of Indus
 
 This blog is where I document my learning journey and the projects I'm working on. If you're also a student trying to figure out AI and deep learning, or just curious about what I'm up to, feel free to look around!
 
-## What I'm Into
+## What I'm into
 
 ![Where am I](../images/where-am-i.png)
 
@@ -20,20 +20,19 @@ I'm really interested in the intersection of computer vision and deep learning. 
 
 Most of my coding is in Python (obviously, since it's basically the AI language), and I know C from my earlier courses. Still figuring out a lot of things as I go!
 
-## Why I Write Here
+## Why I write here
 
 Honestly, writing about what I'm learning helps me understand it better. Plus, if someone else finds it useful, that's a bonus! I'm hoping to:
 
 - **Share what I learn**: Maybe save someone else the headache of debugging the same issues I ran into
-- **Connect with other students**: Always cool to meet people working on similar stuff
 - **Keep track of my progress**: It's nice to look back and see how far I've come
 
-## What's Next
+## What's next
 
 Right now I'm focused on landing a good internship where I can get some real-world AI experience. After that, who knows? Maybe research, maybe industry - I'm keeping my options open and seeing where this journey takes me.
 
 
-## Current Projects
+## Current projects
 
 I'm working on a few things right now, but I'll update this section as I make progress on them. Check back later for more details!
 
