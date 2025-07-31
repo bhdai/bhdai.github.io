@@ -1,7 +1,3 @@
----
-layout: null
-permalink: /setup.sh
----
 #!/bin/bash
 
 set -e
